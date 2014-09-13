@@ -1,1 +1,2 @@
-Quiver documentation is in the Wiki.
+Quiver documentation is in the [Wiki](https://github.com/HappenApps/QuiverDocs/wiki).
+

@@ -1,2 +1,6 @@
-Quiver documentation is in the [Wiki](https://github.com/HappenApps/QuiverDocs/wiki).
+### Official Support for [Quiver](https://itunes.apple.com/app/quiver-programmers-notebook/id866773894?mt=12)
+
+Documentation: https://github.com/HappenApps/Quiver/wiki
+
+Issue Tracker: https://github.com/HappenApps/Quiver/issues
 
